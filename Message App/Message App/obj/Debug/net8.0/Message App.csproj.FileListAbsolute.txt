@@ -1,0 +1,14 @@
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.AssemblyInfoInputs.cache
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.AssemblyInfo.cs
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.csproj.CoreCompileInputs.cache
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\bin\Debug\net8.0\Message App.exe
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\bin\Debug\net8.0\Message App.deps.json
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\bin\Debug\net8.0\Message App.runtimeconfig.json
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\bin\Debug\net8.0\Message App.dll
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\bin\Debug\net8.0\Message App.pdb
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.dll
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\refint\Message App.dll
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.pdb
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\Message App.genruntimeconfig.cache
+C:\Users\NAVEEN PRABHU\source\repos\Message App\Message App\obj\Debug\net8.0\ref\Message App.dll
