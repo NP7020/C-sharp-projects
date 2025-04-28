@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DAX_Car_Parking_Management_System_Real/1.0.0": {
+        "runtime": {
+          "DAX_Car_Parking_Management_System_Real.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAX_Car_Parking_Management_System_Real/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
